@@ -21,7 +21,7 @@ section {
     justify-content: center;
     background-color: #DBEFFF;
     padding: 0 15px;
-    transition: 0.5s;
+    transition: background-color 0.5s;
 }
 
 section .container {
@@ -35,7 +35,7 @@ section .container {
     justify-content: center;
     text-align: center;
     position: relative;
-    transition: 0.5s;
+    transition: background-color 0.5s;
 }
 
 section .container .image img {
