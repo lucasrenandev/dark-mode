@@ -103,12 +103,12 @@ section.dark {
     background-color: #202026;
 }
 
-section.dark .container .icon::before {
-    content: '\f185';
-}
-
 section.dark .container {
     background-color: #323840;
+}
+
+section.dark .container .icon::before {
+    content: '\f185';
 }
 
 section.dark .container .text p {
